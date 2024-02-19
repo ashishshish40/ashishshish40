@@ -46,3 +46,9 @@ About me
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishshish40&show_icons=true&locale=en" alt="ashishshish40" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishshish40&" alt="ashishshish40" /></p>
+
+Quote that motivates me:-
+-----------------------------------------------------------------------------------------
+- Ã pèrßõñ whø ñëvër mäðë ä mïßtãkê ñêvër trïèð ãñýthíñg ñëw.
+- "Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."
+
