@@ -8,20 +8,25 @@
 
 About me
 -------------------------------------------------------------------------------------------
+- 📡 I’m a programmer interested in problem-solving and developing new software that will add value to the community.
+
+- 👩‍🎓 I also graduated from "Bachelor of Technology" degree from Dr. A.P.J. Abdul Kalam Technical University. I am always eager to learn new technologies and improve my programming abilities. My goal is to become a proficient and versatile software developer who can solve complex problems and deliver value to users.
+
+- 🥇 As a software developer, I aim to build solutions that can make human life easier in any way possible.
 
 - 🌱 I’m currently learning **Python,SQL,PowerBI,Excel etc.**
 
--  💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL**
   
-- I’m looking to collaborate on OpenSource Projects.
+- 🎞 I’m looking to collaborate on OpenSource Projects.
 
-- I am always ready to learn modern technologies and implement them to current solutions to make them more efficient and robust.
+- 🖨 I am always ready to learn modern technologies and implement them to current solutions to make them more efficient and robust.
 
-- I'm currently working on How to Improve My Skills? Through Learning New Programming Languages, Different Courses, and New Technologies in the CSE Field of Study.
+- 😎I'm currently working on How to Improve My Skills? Through Learning New Programming Languages, Different Courses, and New Technologies in the CSE Field of Study.
   
-- Fun fact I play games very often and I overthink on any topic and make my own dreams while sleeping.
+-🤏 Fun fact I play games very often and I overthink on any topic and make my own dreams while sleeping.
 
--  I am't looking on help.
+- 🙋‍♂️ I am't looking on help.
 
 - 📫 How to reach me **ashishshishodia40@gmail.com**
 
