@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishshish40&label=Profile%20views&color=0e75b6&style=flat" alt="ashishshish40" /> </p>
 
+About me
+
 - 🌱 I’m currently learning **Python,SQL,PowerBI,Excel etc.**
 
 -  💬 Ask me about **Python,SQL**
