@@ -22,9 +22,9 @@ About me
 
 - 🖨 I am always ready to learn modern technologies and implement them to current solutions to make them more efficient and robust.
 
-- 😎I'm currently working on How to Improve My Skills? Through Learning New Programming Languages, Different Courses, and New Technologies in the CSE Field of Study.
+- 😎 I'm currently working on How to Improve My Skills? Through Learning New Programming Languages, Different Courses, and New Technologies in the CSE Field of Study.
   
--🤏 Fun fact I play games very often and I overthink on any topic and make my own dreams while sleeping.
+- 🤏 Fun fact I play games very often and I overthink on any topic and make my own dreams while sleeping.
 
 - 🙋‍♂️ I am't looking on help.
 
