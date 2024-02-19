@@ -1,5 +1,6 @@
 ![logo](https://github.com/ashishshish40/ashishshish31/blob/main/1706370746808.jpg)
-<h1 align="center">Hi , ![logo](https://github.com/ashishshish40/ashishshish40/blob/main/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif)
+<h1 align="center">Hi,
+![logo](https://github.com/ashishshish40/ashishshish40/blob/main/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif)
 I'm Ashish Shishodia</h1>
 <h3 align="center">I'm Data Analyst from India.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
