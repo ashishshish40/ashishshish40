@@ -12,7 +12,8 @@ About me
 
 -  💬 Ask me about **Python,SQL**
   
-- I’m looking to collaborate on OpenSource Projects.
+-    ![image](https://github.com/ashishshish40/ashishshish40/assets/156421874/35452f76-270e-449d-ba96-16d6ff548b1d)
+I’m looking to collaborate on OpenSource Projects.
 
 - I am always ready to learn modern technologies and implement them to current solutions to make them more efficient and robust.
 
